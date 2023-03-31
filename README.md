@@ -1,9 +1,11 @@
 # authorities
 
+TEST
+
 NACO authorities check list based on local policy at Memorial University of Newfoundland.<br>
 After making any local policy changes, an .html file is produced from the local system, pushed to hjpretty/authorities repo, and Actions used to render as a publicly available web page.
 
-<h2><em><strong>Name Authority Record Checklist</strong></em></h2>
+<h2>Name Authority Record Checklist</h2>
 <table class="wrapped fixed-width" style="width: 1211.0px;"><colgroup><col style="width: 126.0px;" /><col style="width: 93.0px;" /><col style="width: 211.0px;" /><col style="width: 246.0px;" /><col style="width: 534.0px;" /></colgroup>
 <tbody>
 <tr>
