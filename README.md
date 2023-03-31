@@ -1,4 +1,3 @@
-# Name Authority Record Checklist
 
 <table class="wrapped fixed-width" style="width: 1211.0px;"><colgroup><col style="width: 126.0px;" /><col style="width: 93.0px;" /><col style="width: 211.0px;" /><col style="width: 246.0px;" /><col style="width: 534.0px;" /></colgroup>
 <tbody>
